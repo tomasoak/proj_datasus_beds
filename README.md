@@ -25,4 +25,4 @@ Moreover, it uses BigQuery to pull these data from Cloud Storage, optimize it st
 <br>
 <br>
 
-<img title="Architecture" alt="" src="https://github.com/tomasoak/proj_datasus_beds/blob/main/proj_architecture.png" height=411, width=685> </img>
+<img title="Architecture" alt="" src="https://github.com/tomasoak/proj_datasus_beds/blob/main/proj_architecture.png" height=411, width=585> </img>
